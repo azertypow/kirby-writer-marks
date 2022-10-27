@@ -1,0 +1,9 @@
+{
+  "name": "azertypow/kirby-writer-marks",
+  "description": "forked from ohannschopplich/kirby-writer-marks",
+  "license": "",
+  "minimum-stability": "master",
+  "require": {
+    "php": ">=8.*"
+  }
+}
