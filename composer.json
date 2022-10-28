@@ -1,6 +1,7 @@
 {
   "name": "azertypow/kirby-writer-marks",
   "description": "forked from ohannschopplich/kirby-writer-marks",
+  "type": "kirby-plugin",
   "require": {
     "php": ">=8.*"
   }
